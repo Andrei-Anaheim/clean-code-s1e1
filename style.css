@@ -18,8 +18,10 @@
 }
 
 @media (max-width:768px) {
+    
   .title-picture { text-align: center;
   }
+  
 }
 .centered-item {
   display: block;
